@@ -3,4 +3,5 @@
     "maxValue": 10000,
     "minInterval": 10,
     "turns": 10
+    "fileResults": "results.csv"
 }
